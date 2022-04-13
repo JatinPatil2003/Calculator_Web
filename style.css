@@ -38,6 +38,7 @@ body {
   background: transparent;
   border: 2px solid rgba(255, 255, 255, 0.5);
 }
+
 .container input[type="button"] {
   outline: none;
   border: none;
